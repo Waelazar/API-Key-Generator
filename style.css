@@ -1,0 +1,62 @@
+@import url('https://fonts.googleapis.com/css?family=Lemonada');
+
+body {
+	margin: auto;
+	background: #bdc3c7;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #2c3e50, #bdc3c7);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #2c3e50, #bdc3c7); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+font-family: 'Lemonada', cursive;
+
+}
+h1 {
+font-size: 55px;	
+}
+
+input	{
+	width: 45%;
+	height: 20px;
+	text-align: center;
+	font-size: 12px;
+	font-family: 'Lemonada', cursive;
+
+
+}
+div {
+	margin-top: 1em;
+}
+#button1 {
+	background-color: black;
+	color:white;
+    border: 2px solid black;
+    padding: 4px 40px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    font-family: 'Lemonada', cursive;
+
+}
+
+#button1:hover {
+	background-color: rgba(255, 255, 255, 0);
+	transition: 0.4s;
+	-webkit-transition :0.4s;
+	-moz-transition: 0.4s;
+}
+
+#button2 {
+	background-color: black;
+	color:white;
+    border: 2px solid black;
+    padding: 2.5px 15px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+
+#button2:hover {
+	background-color: rgba(255, 255, 255, 0);
+	transition: 0.4s;
+	-webkit-transition :0.4s;
+	-moz-transition: 0.4s;
+}
