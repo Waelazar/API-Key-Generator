@@ -7,8 +7,7 @@ It's very easy to modify it.
 I explained it in a way allows to anyone to modify the code easily.
 
 # How to use 
-Generate an API key by Clicking the button "generate Api key".
-Click the button on the right of the input after Generate a new API Key to Copy the Key
+Generate an API key by Clicking the button "generate Api key", then click the button on the right of the input after Generate a new API Key to Copy the Key
 
 # Libraries
 1_ FontAwosome. 
